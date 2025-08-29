@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benson-gikonyo&label=Profile%20views&color=0e75b6&style=flat" alt="benson-gikonyo" /> </p>
 
-- 🔭 I’m currently working on **AJIRA AWS RESTART**
+- 🔭 I’m currently working on **AIRBNB CLONE**
 
-- 🌱 I’m currently learning **Docker, Kubernetes**
+- 🌱 I’m currently learning **DJANGO, REACT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
